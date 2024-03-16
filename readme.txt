@@ -10,3 +10,5 @@ step 3.
 
 stpe 4.
 執行evaluation.py，使用dataset/real_artice_testing.txt、dataset/fake_article_testing.txt、dataset/real_article_validation.txt和dataset/fake_article_validation.txt評估找到的key的好壞以及threshold設定的好壞。
+
+作者: 林裕翔
